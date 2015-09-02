@@ -1,2 +1,3 @@
-# bitonicsort
-Bitonic Sort in Go
+# Bitonic Sorter implemented in Go
+
+
