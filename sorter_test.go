@@ -1,11 +1,12 @@
 package bitonic_test
 
 import (
-	"github.com/farazdagi/bitonic"
 	"math/rand"
 	"runtime"
 	"testing"
 	"time"
+
+	"github.com/farazdagi/bitonic"
 )
 
 const SAMPLE_SIZE = 1 << 16
